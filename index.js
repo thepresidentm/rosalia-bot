@@ -2,9 +2,6 @@
 const abc = ["A","B","C","D","E","F","G","H","I","J","M","N","O","P","Q","R","S", "T", "U","V","W","X","Y","Z"];
 const url = 'https://rosalia-api.herokuapp.com/';
 
-data = JSON.parse(data);
-console.log(data);
-
 const textoBase = '' +
     'A de alfa, altura, alien<br>' +
     'B de bandida<br>' +
