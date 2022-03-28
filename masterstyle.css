@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&family=Rubik&display=swap');
+body{
+    background-color: #090a0c;
+    color: white;
+    font-family: "Rubik";
+    font-size: 1.25rem;
+    text-align: center;
+}
+input{
+    color: white;
+    font-family: "Rubik";
+    font-size: 2rem;
+    background-color: #2a2f3a00;
+    font-weight: bold;
+    outline: none;
+    border: 0px;
+    text-decoration: underline;
+}
